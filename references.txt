@@ -1,0 +1,30 @@
+Javascript books:
+	- Eloquent Javascript;
+	- Javascript the Good Parts;
+	- Secrets of Javascript Ninja;
+
+To show about communication with HTTP services:
+- WinJS.xhr: http://msdn.microsoft.com/en-us/library/windows/apps/br229787.aspx
+
+OAuth 2.0:
+- http://oauth.net/2/
+- http://tools.ietf.org/html/rfc6749
+
+Sign Up and create an App in Windows Live Connect:
+- http://msdn.microsoft.com/en-us/live/ff519582.aspx
+
+
+Endpoints:
+- Authorization: https://login.live.com/oauth20_authorize.srf
+- Token: https://login.live.com/oauth20_token.srf
+- Resource: https://apis.live.net/v5.0/me
+
+Scopes:
+- http://msdn.microsoft.com/en-us/library/live/hh243646.aspx
+
+
+SkyDrive Upload:
+- http://msdn.microsoft.com/en-us/library/live/hh826531.aspx#uploading_files
+
+BackgroundTransfer:
+- http://msdn.microsoft.com/en-us/library/windows/apps/hh700372.aspx
