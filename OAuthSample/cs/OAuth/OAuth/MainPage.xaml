@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="OAuth.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:OAuth"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel>
+            <Button Name="bt_GetUserDetails" Content="Get User Details" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="250" Click="bt_GetUserDetails_Click"/>
+            <Button Name="bt_UploadPhoto" Content="Upload a Photo to Skydrive" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="250" Click="bt_UploadPhoto_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>
